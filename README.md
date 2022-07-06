@@ -12,9 +12,9 @@
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 
-<a href="https://www.youtube.com/c/Softlinks?sub_confirmation=1">
+<!--<a href="https://www.youtube.com/c/?sub_confirmation=1">
   <img align="left" width="26px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
-</a>
+</a>-->
 
 <a href="https://hashnode.com/@gabrielsoftdev">
   <img align="left" width="26px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
