@@ -33,23 +33,23 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://logospng.org/download/php/logo-php-1024.png" width="48" height="48" alt="PHP" />
-      </a>
-     <br><strong>PHP</strong>
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="48" height="48" alt="Laravel" />
-      </a>
-     <br><strong>Laravel</strong>
-    </td>
    <td align="center" width="96">
       <a href="#">
-        <img src="https://d1.awsstatic.com/developer-center/kotlin-logo.b7d78690b60f7e6abb019b6fb946e9206c5579a2.png" width="48" height="48" alt="Kotlin" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"         width="48" height="48" alt="Javascript"/>
       </a>
-     <br><strong>Kotlin</strong>
+     <br><strong>Javascript</strong>
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="48" height="48" alt="NodeJS" />
+      </a>
+     <br><strong>NodeJS</strong>
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="48" height="48" alt="Java" />
+      </a>
+     <br><strong>Java</strong>
     </td>
    <td align="center" width="96">
       <a href="#">
@@ -72,9 +72,15 @@
   <tr>
    <td align="center" width="96">
       <a href="#">
-        <img src="https://logospng.org/download/vue.js/vue-js-2048.png" width="48" height="48" alt="Vue" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" width="48" height="48" alt="Svelte" />
       </a>
-     <br><strong>Vue</strong>
+     <br><strong>Svelte</strong>
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="48" height="48" alt="React" />
+      </a>
+     <br><strong>React</strong>
     </td>
    <td align="center" width="96">
       <a href="#">
@@ -88,13 +94,32 @@
       </a>
      <br><strong>RabbitMQ</strong>
     </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://uploads-ssl.webflow.com/62038ffc9cd2db4558e3c7b7/623b44a1913c46041e39c836_kafka.svg" width="48" height="48" alt="ApacheKafka"/>
+      </a>
+     <br><strong>Kafka</strong>
+    </td>
    <td align="center" width="96">
       <a href="#">
-        <img src="https://iconape.com/wp-content/png_logo_vector/docker-2.png" width="48" height="48" alt="Flutter" />
+        <img src="https://iconape.com/wp-content/png_logo_vector/docker-2.png" width="48" height="48" alt="Docker" />
       </a>
      <br><strong>Docker</strong>
     </td>
-   <td align="center" width="96">
+  <tr>
+   <!--<td align="center" width="96">
+      <a href="#">
+        <img src="https://assets.stickpng.com/images/58480a44cef1014c0b5e4917.png" width="48" height="48" alt="Kubernetes" />
+      </a>
+     <br><strong>Kubernetes</strong>
+    </td>-->
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" width="48" height="48" alt="PostgresSQL" />
+      </a>
+     <br><strong>PostgresSQL</strong>
+    </td>
+  <td align="center" width="96">
       <a href="#">
         <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-15.png" width="48" height="48" alt="MySQL" />
       </a>
@@ -106,6 +131,7 @@
       </a>
      <br><strong>MongoDB</strong>
     </td>
+  </tr>
 </table>
 
 <p align="center" dir="auto">
