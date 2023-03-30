@@ -1,139 +1,31 @@
-# Hi there 👋 I'm [Gabriel!](https://gabrielsoftdev.github.io/)
+<h1 align="center">Hi 👋, I'm Gabriel Valdivia</h1>
+<h3 align="center">A passionate backend developer from Brazil</h3>
 
-<p> In addition to being a professional, Gabriel is an eternal technology learner, he started his career at a technical school in systems development and since then, he has always been looking for more and more knowledge and learning. Today, with a progressive goal and objectives outlined, he dreams of becoming an exceptional Software Engineer and thus, through technology, bring accessibility, opportunity and knowledge to people.</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielsoftdev&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielsoftdev" /> </p>
 
-<h2>You may check me on: </h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielsoftdev" alt="gabrielsoftdev" /></a> </p>
 
-<a href="https://www.linkedin.com/in/gabrielsoftdev">
-  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
-</a>
+<p align="left"> <a href="https://twitter.com/ypnotic_ofc" target="blank"><img src="https://img.shields.io/twitter/follow/ypnotic_ofc?logo=twitter&style=for-the-badge" alt="ypnotic_ofc" /></a> </p>
 
-<a href="mailto:gabriel.softdev@gmail.com">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-</a>
+- 🌱 I’m currently learning **Spring Boot, Node, Svelte, Vue, Cypress**
 
-<!--<a href="https://www.youtube.com/c/?sub_confirmation=1">
-  <img align="left" width="26px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
-</a>-->
+- 💬 Ask me about **Java, Javascript, PHP**
 
-<a href="https://hashnode.com/@gabrielsoftdev">
-  <img align="left" width="26px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
-</a>
+- 📫 How to reach me **gabrielvaldivia.programming@gmail.com**
 
-<br>
-<h2>Certifications</h2>
-<ul>
-    <!--<li>AI For Everyone : <a href='https://www.coursera.org/account/accomplishments/verify/THNHQELZXLR3'> view certificate </a> </li>
-    <li>Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning :  <a href='#'> view certificate </a></li>-->
-</ul>
+- ⚡ Fun fact **In December 2018, I repeated my third year of high school because of my senior project. At the time, I didn't like programming and had difficulty understanding it. Interestingly, it was during the following school vacation, between December 20th and February 15th, that I learned to program on my own with books and YouTube videos. This experience showed me that sometimes we need time to find our way and overcome our challenges. Today, programming is a passion and one of my main interests.**
 
-<h2 align="left" id="#">Favorite Tech</h2>
-
-> Tools, languages, and other things that I like to work with.
-
-<table align="center">
-  <tr>
-   <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"         width="48" height="48" alt="Javascript"/>
-      </a>
-     <br><strong>Javascript</strong>
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="48" height="48" alt="NodeJS" />
-      </a>
-     <br><strong>NodeJS</strong>
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="48" height="48" alt="Java" />
-      </a>
-     <br><strong>Java</strong>
-    </td>
-   <td align="center" width="96">
-      <a href="#">
-        <img src="https://springframework.guru/wp-content/uploads/2015/02/spring-framework-project-logo.png" width="48" height="48" alt="Spring" />
-      </a>
-     <br><strong>Spring</strong>
-    </td>
-   <td align="center" width="96">
-      <a href="#">
-        <img src="https://www.fluttericon.com/logo_dart_192px.svg" width="48" height="48" alt="Dart" />
-      </a>
-     <br><strong>Dart</strong>
-    </td>
-   <td align="center" width="96">
-      <a href="#">
-        <img src="https://play-lh.googleusercontent.com/lKqgoL_UJvmytVdTHc5bkVOUTrbUTIOhTKBsWDt9K5gWs-PKXPFz3R_os93FShkb3w" width="48" height="48" alt="Flutter" />
-      </a>
-     <br><strong>Flutter</strong>
-    </td>
-  <tr>
-   <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" width="48" height="48" alt="Svelte" />
-      </a>
-     <br><strong>Svelte</strong>
-    </td>
-   <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="48" height="48" alt="React" />
-      </a>
-     <br><strong>React</strong>
-    </td>
-   <td align="center" width="96">
-      <a href="#">
-        <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="48" height="48" alt="Typescript" />
-      </a>
-     <br><strong>Typescript</strong>
-    </td>
-   <td align="center" width="96">
-      <a href="#">
-        <img src="https://seeklogo.com/images/R/rabbitmq-logo-25641A76DE-seeklogo.com.png" width="48" height="48" alt="RabbitMQ" />
-      </a>
-     <br><strong>RabbitMQ</strong>
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://uploads-ssl.webflow.com/62038ffc9cd2db4558e3c7b7/623b44a1913c46041e39c836_kafka.svg" width="48" height="48" alt="ApacheKafka"/>
-      </a>
-     <br><strong>Kafka</strong>
-    </td>
-   <td align="center" width="96">
-      <a href="#">
-        <img src="https://iconape.com/wp-content/png_logo_vector/docker-2.png" width="48" height="48" alt="Docker" />
-      </a>
-     <br><strong>Docker</strong>
-    </td>
-  <tr>
-   <!--<td align="center" width="96">
-      <a href="#">
-        <img src="https://assets.stickpng.com/images/58480a44cef1014c0b5e4917.png" width="48" height="48" alt="Kubernetes" />
-      </a>
-     <br><strong>Kubernetes</strong>
-    </td>-->
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" width="48" height="48" alt="PostgresSQL" />
-      </a>
-     <br><strong>PostgresSQL</strong>
-    </td>
-  <td align="center" width="96">
-      <a href="#">
-        <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-15.png" width="48" height="48" alt="MySQL" />
-      </a>
-     <br><strong>MySQL</strong>
-    </td>
-   <td align="center" width="96">
-      <a href="#">
-        <img src="https://www.pngrepo.com/png/331488/512/mongodb.png" width="48" height="48" alt="MongoDB" />
-      </a>
-     <br><strong>MongoDB</strong>
-    </td>
-  </tr>
-</table>
-
-<p align="center" dir="auto">
-        <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"><img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" style="max-width: 100%;color:blue"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ypnotic_ofc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ypnotic_ofc" height="30" width="40" /></a>
+<a href="https://discord.gg/Rakanalha#7587" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rakanalha#7587" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielsoftdev&show_icons=true&locale=en&layout=compact" alt="gabrielsoftdev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielsoftdev&show_icons=true&locale=en" alt="gabrielsoftdev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielsoftdev&" alt="gabrielsoftdev" /></p>
